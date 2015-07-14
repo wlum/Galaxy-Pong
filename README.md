@@ -1,11 +1,9 @@
-# Galaxy-Pong
+# Galaxy Pong
 A re-creation of the popular 2 player game with special items.
 
 Intructions
 --------------------
--Download the pdf file. It contains the rules and controls for Galaxy-Pong
-
--Download the exe file. You can immediately launch the game and start playing!
+-Download the zip file located under the release tab. It contains the executable game and a pdf file explaining the rules
 
 Screenshots
 --------------------------
